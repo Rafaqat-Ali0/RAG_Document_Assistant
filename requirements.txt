@@ -6,7 +6,8 @@ langchain-community==0.4.2
 langchain-google-genai==4.2.4
 langchain-text-splitters==1.1.2
 
-chromadb==0.5.23
+langchain-chroma
+langchain-huggingface
 
 sentence-transformers==5.1.0
 
