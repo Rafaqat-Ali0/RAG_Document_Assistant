@@ -11,3 +11,5 @@ chromadb
 sentence-transformers
 
 pypdf
+
+protobuf==3.20.3s
