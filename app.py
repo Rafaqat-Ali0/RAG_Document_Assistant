@@ -12,15 +12,18 @@ load_dotenv(override=True)
 
 st.set_page_config(
     page_title="RAG Document Assistant",
-    page_icon="📄",
+    page_icon="assets/favicon.png",
     layout="wide"
 )
 
 # =========================
 # HEADER
 # =========================
-
-st.title("📄 RAG Document Assistant")
+st.image(
+    "assets/logo.png",
+    width=250
+)
+st.title("RAG Document Assistant")
 
 st.markdown(
     """
