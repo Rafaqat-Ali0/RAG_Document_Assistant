@@ -37,7 +37,7 @@ st.markdown(
 
 with st.sidebar:
 
-    st.header("📄 Project Information")
+    st.header("Project Information")
 
     st.write("RAG Document Assistant")
 
